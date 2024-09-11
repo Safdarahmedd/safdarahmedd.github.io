@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://safdarahmedd.github.io/al-folio/sitemap.xml
+Sitemap: https://safdarahmedd.github.io/sitemap.xml
