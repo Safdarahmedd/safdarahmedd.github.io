@@ -485,6 +485,25 @@ footer.sticky-bottom {
         background-color: var(--global-theme-color) !important;
       }
     }
+
+    .horizontal-list {
+      list-style-type: none; /* Remove bullets */
+      padding-left: 0; /* Remove padding */
+    }
+    
+    .horizontal-list li {
+      display: inline-block; /* Display list items inline */
+      margin-right: 10px; /* Add space between items */
+    }
+  
+    .horizontal-list li::after {
+      content: "•"; /* Add separator between items */
+      padding-left: 5px;
+    }
+    
+    .horizontal-list li:last-child::after {
+      content: ""; /* Remove separator after the last item */
+    }
   }
 }
 
