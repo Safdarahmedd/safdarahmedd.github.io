@@ -6,8 +6,8 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "Django",
-        "Flask",
+        "C#",
+        ".Net",
         "NestJs",
         "GraphQl"
       ]
@@ -31,16 +31,10 @@
       "keywords": [
         "Docker",
         "Kubernetes",
-        "Jenkins",
         "Terraform",
         "Elastic Kubernetes Service",
         "Simple Query Service",
-        "AWS Lambda",
-        "S3",
-        "Amazon Lex",
-        "CloudFormation",
-        "AWS",
-        "GCP"
+        "Azure App Service",
       ]
     },
     {
