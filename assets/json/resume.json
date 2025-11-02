@@ -59,11 +59,17 @@
 
   "work": [
     {
+      "name": "Microsoft",
+      "position": "Software Engineer",
+      "url": "https://azure.microsoft.com",
+      "startDate": "2025-07",
+    },
+    {
       "name": "Endless Frontier Labs",
       "position": "Software Engineer Intern",
       "url": "https://endlessfrontierlabs.com/",
       "startDate": "2024-05",
-      
+      "endDate": "2025-05",
       "summary": "Developed a ranking tool for over 1,600 VC investment candidates using Python and Spark, leveraging historical success factors to optimize decision-making. Implemented a microservice with Python and AWS Lambda, utilizing the stable marriage algorithm to match potential hires with 200+ startups, significantly reducing churn. Additionally, improved website performance by migrating to a multi-tier architecture, increasing the Lighthouse score from 77 to 92.",
       "highlights": ["AWS", "Python", "TypeScript", "Spark"]
     },
